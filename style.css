@@ -95,6 +95,7 @@ a:hover {
 }
 
 .menu-links {
+    list-style: none;
     position: absolute;
     top: 100%;
     right: 0;
@@ -143,3 +144,4 @@ a:hover {
     transform: none;
 }
 
+/* SECTIONS */
